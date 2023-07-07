@@ -93,6 +93,10 @@ body{
     padding: 23px;
 }
 
+.nav-items ul li a:hover{
+    color: rgb(243, 159, 5);
+}
+
 .info{
     width: 100vw;
     height: 100vh;
