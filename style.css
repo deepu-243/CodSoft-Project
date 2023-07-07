@@ -350,9 +350,9 @@ body{
     }
 }
 
-@media only screen and (max-width: 315px)
+@media only screen and (max-width: 395px)
 {
-    .wel-cont{
+    .wel-cont {
         font-size: x-small;
     }
 }
